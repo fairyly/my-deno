@@ -7,8 +7,39 @@
 它使用 Rust 语言开发，由于 Rust 原生支持 WebAssembly，所以它也能直接运行 WebAssembly。
 它的异步操作不使用 libuv 这个库，而是使用 Rust 语言的 Tokio 库，来实现事件循环（event loop）。
 
+## install
+
+```
+Using Shell (macOS, Linux):
+
+curl -fsSL https://deno.land/x/install/install.sh | sh
+
+
+Using PowerShell (Windows):
+
+iwr https://deno.land/x/install/install.ps1 -useb | iex
+
+
+Using Homebrew (macOS):
+
+brew install deno
+
+Using Chocolatey (Windows):
+
+choco install deno
+
+Using Scoop (Windows):
+
+scoop install deno
+```
+
+- https://github.com/denoland/deno_install
+
 
 ## 参考
+
+- [deno.land](https://deno.land/)
+- [docs](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
 
 - [deno 社区](https://denocn.org/)
 
