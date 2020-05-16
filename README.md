@@ -35,6 +35,8 @@ scoop install deno
 
 - https://github.com/denoland/deno_install
 
+>Deno 的安装可以参考官网首页，但是你可以直接去 GitHub 仓库的[发布页](https://github.com/denoland/deno/releases)，下载编译好的可执行文件
+
 
 ## 参考
 
