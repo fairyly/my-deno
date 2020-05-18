@@ -50,3 +50,5 @@ scoop install deno
 - deno github: https://github.com/ry/deno
 
 - [Deno 运行时入门教程：Node.js 的替代品](ruanyifeng.com/blog/2020/01/deno-intro.html)
+
+- [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
