@@ -9,6 +9,13 @@
 
 ## install
 
+- Windows安装: 使用 `curl/powershell` 一直下载失败，最后下载 编译好的 [exe 文件 deno-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases)
+``` 
+把压缩文件里的 deno.exe 放到一个路径下，添加到环境变量中
+```
+
+- 其他平台
+
 ```
 Using Shell (macOS, Linux):
 
