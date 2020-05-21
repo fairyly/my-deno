@@ -61,3 +61,6 @@ scoop install deno
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 - [NMathar/deno-express](https://github.com/NMathar/deno-express)
 - [oakserver/oak](https://github.com/oakserver/oak)
+
+
+- [了不起的 Deno 入门与实战](https://zhuanlan.zhihu.com/p/141832695)
